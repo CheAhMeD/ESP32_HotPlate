@@ -14,7 +14,7 @@ To access the Cirkit Designer project folder follow this link ([Cirkit](https://
 
 #### Case
 The wooden case is made from plywood.
-The drawings for the laser cutting are included in drawings folder.
+*The file for laser cutting can be found in Drawings folder.*
 
 #### BOM
 - ESP32-WROOM-32UE Dev Kit ([AliExpress](https://www.aliexpress.com/i/1005006101661404.html))
