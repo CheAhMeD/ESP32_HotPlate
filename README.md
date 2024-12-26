@@ -17,6 +17,7 @@ The wooden case is made from plywood.
 *The file for laser cutting can be found in Drawings folder.*
 
 #### BOM
+##### Required
 - ESP32-WROOM-32UE Dev Kit ([AliExpress](https://www.aliexpress.com/i/1005006101661404.html))
 - RP1A23D5 ([mouser](https://www.mouser.be/ProductDetail/Carlo-Gavazzi/RP1A23D5?qs=xZ%2FP%252Ba9zWqYrTlescD3zNw%3D%3D&srsltid=AfmBOop4c0-2oQbLZNWjqGRbjlYNQFfOyFUVsmCj10K13PxnHtzqtBrx&_gl=1*1asaar2*_ga*MTIzNzcwODgzNi4xNzM1MjQ2ODIx))
 - 400W PTC Heating plate **(I Used 2)** ([AliExpress](https://www.aliexpress.com/item/1005007420346819.html))
@@ -27,6 +28,8 @@ The wooden case is made from plywood.
 - FAN Driving Circuit (100uF Polorized Capacitor + 1K Omh Resistor + BD139 BJT Transistor + 1N4007 Diode) **Or Similar**
 - Passive Buzzer ([AliExpress](https://www.aliexpress.com/item/1005006237096111.html))
 - Push Button (Any)
+##### Optional
+- Custom PCB to house everything. (I designed one using KiCad if any one is interested drop me a message)
 
 ## Authors
 
