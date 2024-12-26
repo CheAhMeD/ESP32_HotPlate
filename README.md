@@ -1,4 +1,4 @@
-# ESP32 HotPlate Station
+# ESP32 HotPlate (Reflow Station)
 DIY Hot Plate for SMD Soldering Using ESP32
 
 ## System Overview
