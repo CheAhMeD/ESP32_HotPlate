@@ -4,7 +4,7 @@ DIY Hot Plate for SMD Soldering Using ESP32
 ## System Overview
 #### Architecture
 
-![arch](drawings/hot_plate_arch.svg)
+![arch](Drawings/hot_plate_arch.svg)
 
 To access the Cirkit Designer project folder follow this link ([Cirkit](https://app.cirkitdesigner.com/project/63c725ec-d5b7-41f8-a704-f3c43ff69539))
 
