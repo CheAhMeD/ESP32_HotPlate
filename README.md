@@ -44,7 +44,7 @@ A standard reflow system consists of five phases: preheating, soaking, reflowing
 
 ![stages](images/reflow_stages.png)
 
-INHO, PID control is required for a successful build of a reflow "system".
+IMHO, PID control is required for a successful build of a reflow "system".
 
 *More details on the importance of PID can be found [here](https://hobbybotics.com/projects/hobbybotics-reflow-controller-v8-03/)* 
 
