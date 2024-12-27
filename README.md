@@ -30,10 +30,15 @@ The wooden case is made from plywood.
 - Custom PCB to house everything.
 *I designed one using KiCad if any one is interested drop me a message, but you can just solder the different components manually*
 
-#### Usage
+## Usage
 **In the images folder there is a video demo on how to use the hot plate.**
 
-#### About hot plates and reflow soldering
+### Screenshots
+![plate](images/hot_plate.png)
+![main](images/main_menu.png)
+![done](images/done.png)
+
+## About hot plates and reflow soldering
 
 A standard reflow system consists of five phases: preheating, soaking, reflowing, dwelling, and cooling.
 
