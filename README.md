@@ -34,9 +34,9 @@ The wooden case is made from plywood.
 **In the images folder there is a video demo on how to use the hot plate.**
 
 ### Screenshots
-<img src="images/hot_plate.png" alt="Hot Plate" width="300" height="200">
-![main](images/main_menu.png)
-![done](images/done.png)
+<img src="images/hot_plate.png" alt="Hot Plate" width="280" height="300">
+<img src="images/main_menu.png" alt="Hot Plate" width="300" height="200">
+<img src="images/done.png" alt="Hot Plate" width="300" height="200">
 
 ## About hot plates and reflow soldering
 
