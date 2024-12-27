@@ -36,7 +36,8 @@ The wooden case is made from plywood.
 #### About hot plates and reflow soldering
 
 A standard reflow system consists of five phases: preheating, soaking, reflowing, dwelling, and cooling.
-[arch](images/reflow_stages.png)
+
+![stages](images/reflow_stages.png)
 
 INHO, PID control is required for a successful build of a reflow "system".
 
