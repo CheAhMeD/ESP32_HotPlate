@@ -10,8 +10,6 @@ To access the Cirkit Designer project folder follow this link ([Cirkit](https://
 
 #### Used Hardware
 
-*This Hot plate is a diy project, from the wood box to the PCBs...*
-
 #### Case
 The wooden case is made from plywood.
 *The file for laser cutting can be found in Drawings folder.*
@@ -29,7 +27,20 @@ The wooden case is made from plywood.
 - Passive Buzzer ([AliExpress](https://www.aliexpress.com/item/1005006237096111.html))
 - Push Button (Any)
 ##### Optional
-- Custom PCB to house everything. (I designed one using KiCad if any one is interested drop me a message)
+- Custom PCB to house everything.
+*I designed one using KiCad if any one is interested drop me a message, but you can just solder the different components manually*
+
+#### Usage
+**In the images folder there is a video demo on how to use the hot plate.**
+
+#### About hot plates and reflow soldering
+
+A standard reflow system consists of five phases: preheating, soaking, reflowing, dwelling, and cooling.
+[arch](images/reflow_stages.png)
+
+INHO, PID control is required for a successful build of a reflow "system".
+
+*More details on the importance of PID can be found [here](https://hobbybotics.com/projects/hobbybotics-reflow-controller-v8-03/)* 
 
 ## Authors
 
