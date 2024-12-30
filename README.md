@@ -31,7 +31,7 @@ The wooden case is made from 4mm plywood sheets.
 *I designed one using KiCad if any one is interested drop me a message, but you can just solder the different components manually*
 
 ## Usage
-**In the images folder there is a video demo on how to use the hot plate.**
+In the images folder there is a small **video demo** on how to use the hot plate.
 
 ### Screenshots
 <img src="images/hot_plate.png" alt="Hot Plate" width="280" height="300">
