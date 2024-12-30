@@ -11,8 +11,8 @@ To access the Cirkit Designer project folder follow this link ([Cirkit](https://
 #### Used Hardware
 
 #### Case
-The wooden case is made from plywood.
-*The file for laser cutting can be found in Drawings folder.*
+The wooden case is made from 4mm plywood sheets.
+*The file for laser cutting can be found in Drawings folder [here](Drawings/hot_plate_case.svg).*
 
 #### BOM
 ##### Required
