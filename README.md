@@ -35,9 +35,9 @@ In the images folder there is a small **video demo** on how to use the hot plate
 
 ### Screenshots
 <img src="images/hot_plate.png" alt="Hot Plate" width="280" height="300">
-<img src="images/main_menu.png" alt="Hot Plate" width="300" height="200">
-<img src="images/settings.png" alt="Hot Plate" width="300" height="200">
-<img src="images/pid.png" alt="Hot Plate" width="300" height="200">
+<img src="images/main.png" alt="Hot Plate" width="300" height="200">
+<img src="images/settings_soak.png" alt="Hot Plate" width="300" height="200">
+<img src="images/settings_pid.png" alt="Hot Plate" width="300" height="200">
 <img src="images/plot.png" alt="Hot Plate" width="300" height="200">
 
 ## About hot plates and reflow soldering
